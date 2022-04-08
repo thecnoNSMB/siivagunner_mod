@@ -30,7 +30,8 @@ module.exports = {
         //the following two don't work because Collection
         'assets://storyfiles/hs2/05260/resources/openbound/audio/music/FuschiaRulerQuiet.mp3': './music/openbound/FuschiaRulerQuiet.mp3',
         'assets://storyfiles/hs2/05260/resources/openbound/audio/music/FuschiaRulerQuiet.ogg': './music/openbound/FuschiaRulerQuiet.ogg',
-        //other rips i am advanced enough for: unite synchronization, horschestra strong version, trickster mode, fuchsia ruler
+        //6552 would go here //Fuchsia Ruler
+        //other rips i am advanced enough for: unite synchronization, horschestra strong version, trickster mode
         //other rips i'm not advanced enough for: killed by br8k spider, oppa toby style
     }
 }
