@@ -27,6 +27,9 @@ module.exports = {
         'assets://storyfiles/hs2/04941/04941.mp3': './music/04941.mp3', //I'm A Member of the Midnight Crew (Acapella)
         'assets://storyfiles/hs2/songs/alterniaboundsongs/MEGALOVANIA.mp3': './music/alterniaboundsongs/MEGALOVANIA.mp3',
         'assets://storyfiles/hs2/songs/alterniaboundsongs/Horschestra.mp3': './music/alterniaboundsongs/Horschestra.mp3',
+        //the following two don't work because Collection
+        'assets://storyfiles/hs2/05260/resources/openbound/audio/music/FuschiaRulerQuiet.mp3': './music/openbound/FuschiaRulerQuiet.mp3',
+        'assets://storyfiles/hs2/05260/resources/openbound/audio/music/FuschiaRulerQuiet.ogg': './music/openbound/FuschiaRulerQuiet.ogg',
         //other rips i am advanced enough for: unite synchronization, horschestra strong version, trickster mode, fuchsia ruler
         //other rips i'm not advanced enough for: killed by br8k spider, oppa toby style
     }
