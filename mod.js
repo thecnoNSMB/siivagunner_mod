@@ -8,7 +8,7 @@ module.exports = {
         //88 would go here //Harlequin
         //90 would go here (the Namco High dadbattle rip is ideal) //Showtime
         'assets://storyfiles/hs2/00246/00246.mp3': './music/00246.mp3', //Sburban Countdown //don't work because collection
-        'assets://storyfiles/hs2/10246/10246.mp3': './music/00246.mp3', //above, post-retcon
+        'assets://storyfiles/hs2/10246/10246.mp3': './music/00246.mp3', //above, post-retcon, does work
         'assets://storyfiles/hs2/00253/mspa_harlequin.mp3': './music/mspa_harlequin.mp3', //also affects 338
         'assets://storyfiles/hs2/00253/afterthought-showtime_piano.mp3': './music/afterthought-showtime_piano.mp3',
         //418 would go here //Nannaquin
@@ -24,7 +24,7 @@ module.exports = {
         //3000 would go here //Sunslammer
         'assets://storyfiles/hs2/03085/03085.mp3': './music/03085.mp3', //Savior of the Waking World
         'assets://storyfiles/hs2/03294/03294.mp3': './music/03294.mp3', //MeGaLoVania //don't work because collection
-        'assets://storyfiles/hs2/13294/13294.mp3': './music/03294.mp3', //above, post-retcon
+        'assets://storyfiles/hs2/13294/13294.mp3': './music/03294.mp3', //above, post-retcon, does work
         //3757 would go here //BL1ND JUST1C3 : 1NV3ST1G4T1ON !!
         'assets://storyfiles/hs2/04941/04941.mp3': './music/04941.mp3', //I'm A Member of the Midnight Crew (Acapella)
         'assets://storyfiles/hs2/05235/05235.mp3': './music/05235.mp3', //Unite Synchronization
