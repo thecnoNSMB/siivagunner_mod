@@ -37,7 +37,6 @@ module.exports = {
         //5740 would go here //Trickster Mode: Engage
         //5759 would go here //Trickster Mode: Engage
         //6552 would go here //Fuchsia Ruler
-        //other rips i am advanced enough for: horschestra strong version
         //other rips i'm not advanced enough for: killed by br8k spider, oppa toby style
     }
 }
