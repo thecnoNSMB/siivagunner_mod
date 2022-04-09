@@ -2,7 +2,7 @@ module.exports = {
     title: "High Quality Rips Mod",
     summary: "Replaces some music files with Siivagunner versions.",
     author: "Gibus Wearing Brony",
-    modVersion: 0.2,
+    modVersion: 0.3,
 
     routes: {
         //88 would go here //Harlequin
