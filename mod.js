@@ -32,8 +32,12 @@ module.exports = {
         //the following two don't work because Collection
         'assets://storyfiles/hs2/05260/resources/openbound/audio/music/FuschiaRulerQuiet.mp3': './music/openbound/FuschiaRulerQuiet.mp3',
         'assets://storyfiles/hs2/05260/resources/openbound/audio/music/FuschiaRulerQuiet.ogg': './music/openbound/FuschiaRulerQuiet.ogg',
+        //5711 would go here //Trickster Mode: Engage
+        //5726 would go here //Trickster Mode: Engage
+        //5740 would go here //Trickster Mode: Engage
+        //5759 would go here //Trickster Mode: Engage
         //6552 would go here //Fuchsia Ruler
-        //other rips i am advanced enough for: horschestra strong version, trickster mode
+        //other rips i am advanced enough for: horschestra strong version
         //other rips i'm not advanced enough for: killed by br8k spider, oppa toby style
     }
 }
