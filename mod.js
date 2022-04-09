@@ -19,14 +19,14 @@ module.exports = {
         'assets://storyfiles/hs2/00980/00980_2.mp3': './music/00980_2.mp3', //Carefree Victory
         'assets://storyfiles/hs2/01026/01026.mp3': './music/01026.mp3', //The Beginning of Something Really Excellent
         //1358 would go here //Doctor
+        'assets://storyfiles/hs2/songs/alterniaboundsongs/MEGALOVANIA.mp3': './music/alterniaboundsongs/MEGALOVANIA.mp3', //pg 2792
+        'assets://storyfiles/hs2/songs/alterniaboundsongs/Horschestra.mp3': './music/alterniaboundsongs/Horschestra.mp3',
         //3000 would go here //Sunslammer
         'assets://storyfiles/hs2/03085/03085.mp3': './music/03085.mp3', //Savior of the Waking World
         'assets://storyfiles/hs2/03294/03294.mp3': './music/03294.mp3', //MeGaLoVania //don't work because collection
         'assets://storyfiles/hs2/13294/13294.mp3': './music/03294.mp3', //above, post-retcon
         //3757 would go here //BL1ND JUST1C3 : 1NV3ST1G4T1ON !!
         'assets://storyfiles/hs2/04941/04941.mp3': './music/04941.mp3', //I'm A Member of the Midnight Crew (Acapella)
-        'assets://storyfiles/hs2/songs/alterniaboundsongs/MEGALOVANIA.mp3': './music/alterniaboundsongs/MEGALOVANIA.mp3',
-        'assets://storyfiles/hs2/songs/alterniaboundsongs/Horschestra.mp3': './music/alterniaboundsongs/Horschestra.mp3',
         //the following two don't work because Collection
         'assets://storyfiles/hs2/05260/resources/openbound/audio/music/FuschiaRulerQuiet.mp3': './music/openbound/FuschiaRulerQuiet.mp3',
         'assets://storyfiles/hs2/05260/resources/openbound/audio/music/FuschiaRulerQuiet.ogg': './music/openbound/FuschiaRulerQuiet.ogg',
