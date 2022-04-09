@@ -27,11 +27,13 @@ module.exports = {
         'assets://storyfiles/hs2/13294/13294.mp3': './music/03294.mp3', //above, post-retcon
         //3757 would go here //BL1ND JUST1C3 : 1NV3ST1G4T1ON !!
         'assets://storyfiles/hs2/04941/04941.mp3': './music/04941.mp3', //I'm A Member of the Midnight Crew (Acapella)
+        'assets://storyfiles/hs2/05235/05235.mp3': './music/05235.mp3', //Unite Synchronization
+        'assets://storyfiles/hs2/05249/05249.mp3': './music/05249.mp3', //Unite Synchronization
         //the following two don't work because Collection
         'assets://storyfiles/hs2/05260/resources/openbound/audio/music/FuschiaRulerQuiet.mp3': './music/openbound/FuschiaRulerQuiet.mp3',
         'assets://storyfiles/hs2/05260/resources/openbound/audio/music/FuschiaRulerQuiet.ogg': './music/openbound/FuschiaRulerQuiet.ogg',
         //6552 would go here //Fuchsia Ruler
-        //other rips i am advanced enough for: unite synchronization, horschestra strong version, trickster mode
+        //other rips i am advanced enough for: horschestra strong version, trickster mode
         //other rips i'm not advanced enough for: killed by br8k spider, oppa toby style
     }
 }
