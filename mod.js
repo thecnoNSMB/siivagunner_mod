@@ -3,6 +3,7 @@ module.exports = {
     summary: "Replaces some music files with Siivagunner versions.",
     author: "Gibus Wearing Brony",
     modVersion: 0.3,
+    //todo: add a proper description page
 
     routes: {
         //88 would go here //Harlequin
