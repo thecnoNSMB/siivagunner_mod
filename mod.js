@@ -3,7 +3,20 @@ module.exports = {
     summary: "Replaces some music files with Siivagunner versions.",
     author: "Gibus Wearing Brony",
     modVersion: 0.3,
-    //todo: add a proper description page
+    description: `Replaces music on the following Homestuck pages:
+    <ul style="list-style-position:inside;">
+    <li><a href="/homestuck/246" target="_blank">246</a></li>
+    <li><a href="/homestuck/253" target="_blank">253</a></li>
+    <li><a href="/homestuck/757" target="_blank">757</a></li>
+    <li><a href="/homestuck/980" target="_blank">980</a></li>
+    <li><a href="/homestuck/1026" target="_blank">1026</a></li>
+    <li><a href="/homestuck/2792" target="_blank">2792</a></li>
+    <li><a href="/homestuck/3087" target="_blank">3087</a></li>
+    <li><a href="/homestuck/3297" target="_blank">3297</a></li>
+    <li><a href="/homestuck/4944" target="_blank">4944</a></li>
+    <li><a href="/homestuck/5238" target="_blank">5238</a></li>
+    <li><a href="/homestuck/5252" target="_blank">5252</a></li>
+    </ul>`,
 
     routes: {
         //88 would go here //Harlequin
@@ -20,7 +33,7 @@ module.exports = {
         'assets://storyfiles/hs2/00980/00980_2.mp3': './music/00980_2.mp3', //Carefree Victory
         'assets://storyfiles/hs2/01026/01026.mp3': './music/01026.mp3', //The Beginning of Something Really Excellent
         //1358 would go here //Doctor
-        'assets://storyfiles/hs2/songs/alterniaboundsongs/MEGALOVANIA.mp3': './music/alterniaboundsongs/MEGALOVANIA.mp3', //pg 2792
+        'assets://storyfiles/hs2/songs/alterniaboundsongs/MEGALOVANIA.mp3': './music/alterniaboundsongs/MEGALOVANIA.mp3',
         'assets://storyfiles/hs2/songs/alterniaboundsongs/Horschestra.mp3': './music/alterniaboundsongs/Horschestra.mp3',
         //3000 would go here //Sunslammer
         'assets://storyfiles/hs2/03085/03085.mp3': './music/03085.mp3', //Savior of the Waking World
