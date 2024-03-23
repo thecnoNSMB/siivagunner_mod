@@ -2,7 +2,7 @@ module.exports = {
     title: "High Quality Rips Mod",
     summary: "Replaces some music files with Siivagunner versions.",
     author: "Gibus Wearing Brony",
-    modVersion: 0.4,
+    modVersion: 0.5,
     description: `Replaces music on the following Homestuck pages:
     <ul style="list-style-position:inside;">
     <li><a href="/homestuck/246" target="_blank">246</a></li>
