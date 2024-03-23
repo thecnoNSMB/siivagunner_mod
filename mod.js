@@ -44,8 +44,8 @@ module.exports = {
         'assets://storyfiles/hs2/05235/05235.mp3': './music/05235.mp3', //Unite Synchronization
         'assets://storyfiles/hs2/05249/05249.mp3': './music/05249.mp3', //Unite Synchronization
         //the following two don't work because Collection
-        'assets://storyfiles/hs2/05260/resources/openbound/audio/music/FuschiaRulerQuiet.mp3': './music/openbound/FuschiaRulerQuiet.mp3',
-        'assets://storyfiles/hs2/05260/resources/openbound/audio/music/FuschiaRulerQuiet.ogg': './music/openbound/FuschiaRulerQuiet.ogg',
+        'assets://storyfiles/hs2/05260/resources/openbound/audio/music/FuschiaRulerQuiet.mp3?1.0': './music/openbound/FuschiaRulerQuiet.mp3',
+        'assets://storyfiles/hs2/05260/resources/openbound/audio/music/FuschiaRulerQuiet.ogg?1.0': './music/openbound/FuschiaRulerQuiet.ogg',
         //5711 would go here //Trickster Mode: Engage
         //5726 would go here //Trickster Mode: Engage
         //5740 would go here //Trickster Mode: Engage
