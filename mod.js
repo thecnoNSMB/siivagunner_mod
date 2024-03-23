@@ -16,6 +16,7 @@ module.exports = {
     <li><a href="/homestuck/4944" target="_blank">4944</a></li>
     <li><a href="/homestuck/5238" target="_blank">5238</a></li>
     <li><a href="/homestuck/5252" target="_blank">5252</a></li>
+    <li><a href="/homestuck/5263" target="_blank">5263</a></li>
     </ul>`,
 
     routes: {
